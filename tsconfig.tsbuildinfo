@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/store.ts","./src/components/drone.tsx","./src/components/hud.tsx","./src/components/simloop.tsx","./src/components/world.tsx","./src/sim/input.ts","./src/sim/physics.ts","./src/sim/terrain.ts","./src/sim/worlddata.ts"],"version":"5.6.3"}
